@@ -1,7 +1,10 @@
 ##一、Heroku部署程序
 1、注册Heroku账号并登录，点击通过 https://dashboard.heroku.com 注册一个账号，不建议使用国内邮箱注册，例如QQ邮箱，163等！
+
  ![注册](https://img.21t.co/2021/06/15/72696a.png) 
+ 
 2、注册成功以后登录，登录以后点击 
+
 [![Deploy](https://www.herokucdn.com/deploy/button.png)](https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2Frptec%2Fheroku-vless)
 
 地址：
