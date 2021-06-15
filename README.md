@@ -28,8 +28,9 @@ Heroku是一个支持多种编程语言的云平台即服务。目前支持Ruby�
 
 ## 流量中转
 
-使用cloudflare的workers来`中转流量`，配置为：  
+使用cloudflare的workers来`中转流量`，配置为： 
 
+```
 addEventListener(  
 &emsp;&emsp;"fetch",event => {  
 &emsp;&emsp;&emsp;&emsp;let url=new URL(event.request.url);  
@@ -40,3 +41,4 @@ addEventListener(
 &emsp;&emsp;&emsp;&emsp;)  
 &emsp;&emsp;}  
 )  
+```
