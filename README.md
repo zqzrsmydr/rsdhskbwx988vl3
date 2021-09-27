@@ -48,3 +48,8 @@ addEventListener(
 
 详细教程
 https://92km.net/archives/VLESS-Heroku-cloudflareworkers.html
+
+如果你觉得heroku 速度太慢，不支持netflix等流媒体解锁，你也可以试试使用付费的，例如vultr等
+使用下面链接会有赠送100刀（以前可以充值5刀，用1年多，现在似乎只能用两个月）
+https://www.vultr.com/?ref=8446608-6G
+
