@@ -49,7 +49,9 @@ addEventListener(
 详细教程
 https://92km.net/archives/VLESS-Heroku-cloudflareworkers.html
 
-如果你觉得heroku 速度太慢，不支持netflix等流媒体解锁，你也可以试试使用付费的，例如vultr等
-使用下面链接会有赠送100刀（以前可以充值5刀，用1年多，现在似乎只能用两个月）
-https://www.vultr.com/?ref=8446608-6G
 
+当然最后如果你还是懒得搭建的话，可以使用我搭建并提供的。
+vless://10874d1a-cbd6-4b6f-db1d-38d78b3fb108@ip.2024.ml:443?flow=xtls-rprx-direct&encryption=none&security=tls&type=ws&host=cdn.2024.ml#heroku永久免费
+或者你也可以 在https://2024.ml/注册帐号（注:我提供多个节点免费使用，每帐号每月1T流量，已关闭支付接口，请勿支付）
+
+搭建中有任何问题，也可以联系我 https://t.me/herokuvless
