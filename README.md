@@ -63,5 +63,7 @@ vless://10874d1a-cbd6-4b6f-db1d-38d78b3fb108@ip.2024.ml:443?flow=xtls-rprx-direc
 
 virmach最近一直有黑五电商星期一活动，常规配置9.3刀一年 折合人民币不到60元一年，支持支付宝，paypal付款。建议选择西雅图，圣何塞，洛杉矶节点，到国内速度不错。。。同时我自己买的水牛城和圣何塞节点，测试都可以观看netflix美国地区非自制片。
 https://billing.virmach.com/aff.php?aff=1179&url=www.virmach.com/special-offers
-另外也可以看看他家的闪购，虽然都是坑爹的大水牛，，，不过经常有8刀一年2g内存版，18刀7g内存版。
+
+另外也可以看看他家的闪购，虽然都是坑爹的大水牛，，，不过经常有8刀一年2g内存版，18刀7g内存版。相对还是很划算的。
+
 https://billing.virmach.com/aff.php?aff=1179&url=www.virmach.com/black-friday-cyber-monday/
