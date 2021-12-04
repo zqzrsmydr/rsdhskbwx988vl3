@@ -55,5 +55,13 @@ https://92km.net/archives/VLESS-Heroku-cloudflareworkers.html
 vless://10874d1a-cbd6-4b6f-db1d-38d78b3fb108@ip.2024.ml:443?flow=xtls-rprx-direct&encryption=none&security=tls&type=ws&host=cdn.2024.ml#heroku永久免费
 ```
 
-或者你也可以 在https://2024.ml/   注册帐号（注:我提供多个节点免费使用，每帐号每月1T流量，已关闭支付接口，请勿支付）
+或者你也可以 在https://2024.ml/   注册帐号（注:我提供多个节点免费使用，每帐号每月1T流量，已关闭支付接口，请勿支付，其中带广告屏蔽线路，屏蔽youtube等视频站点广告，带netflix等线路支持新加坡netflix解锁）
 搭建中有任何问题，也可以联系我 https://t.me/herokuvless
+
+
+如果以上不能满足你需要（例如不同地区流媒体解锁等），你可以自己购买vps，自己搭建。
+
+virmach最近一直有黑五电商星期一活动，常规配置9.3刀一年 折合人民币不到60元一年，支持支付宝，paypal付款。建议选择西雅图，圣何塞，洛杉矶节点，到国内速度不错。。。同时我自己买的水牛城和圣何塞节点，测试都可以观看netflix美国地区非自制片。
+https://billing.virmach.com/aff.php?aff=1179&url=www.virmach.com/special-offers
+另外也可以看看他家的闪购，虽然都是坑爹的大水牛，，，不过经常有8刀一年2g内存版，18刀7g内存版。
+https://billing.virmach.com/aff.php?aff=1179&url=www.virmach.com/black-friday-cyber-monday/
