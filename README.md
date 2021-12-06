@@ -57,10 +57,13 @@ https://92km.net/archives/VLESS-Heroku-cloudflareworkers.html
 vless://10874d1a-cbd6-4b6f-db1d-38d78b3fb108@ip.2024.ml:443?flow=xtls-rprx-direct&encryption=none&security=tls&type=ws&host=cdn.2024.ml#heroku永久免费
 ```
 
-或者你也可以 在 https://2024.ml/   使用永久优惠码 FREE2024 选择免费套餐，流量超出后可再次使用增加流量
-注册帐号（注:我提供多个节点免费使用，每帐号每月1T流量，已关闭支付接口，请勿支付，其中带广告屏蔽线路，屏蔽youtube等视频站点广告，带netflix等线路支持新加坡netflix解锁）
+或者你也可以 使用 https://2024.ml/ 
+
+使用永久优惠码 FREE2024 选择免费套餐，流量超出后可再次使用增加流量（注:我提供多个节点免费使用，每帐号每月1T流量，已关闭支付接口，请勿支付，其中带广告屏蔽线路，屏蔽youtube等视频站点广告，带netflix等线路支持新加坡netflix解锁）
 
 注册邀请码：
+
+```
 l3aBsKkP
 VTheVHYQ
 7dtHQxi6
@@ -71,7 +74,7 @@ nq3sfOrJ
 vkKxIOuk
 CVrcUnjY
 vQwMyMvj
-
+```
 
 如果以上不能满足你需要（例如不同地区流媒体解锁等），你可以自己购买vps，自己搭建。
 ### 近期特价服务器推荐
