@@ -1,17 +1,6 @@
-# Heroku-vless
 
-## 简介
-Heroku是一个支持多种编程语言的云平台即服务。目前支持Ruby、Java、Node.js、Scala、Clojure、Python、PHP和Perl等语言，基础操作系统是Debian。
 
-本项目用于在 Heroku 上部署 vless+websocket+tls，每次部署自动选择最新的 alpine linux 和 xray core。相比vmess，vless的性能更加优秀，占用资源更少，运行更加稳定。
-
-刚测试了一下，herokuapp.com这个域名部分地区已经被墙（2021.9.27），故现在如果不配置cf流量中转，这个将无法稳定使用，建议使用cloudflare的workers的流量中转，速度更快，原则上使用后不会有被墙风险。
-
-## 镜像
-
-经测试本镜像占用内存资源较低，运行稳定。
-
-[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2Frptec%2Fheroku-vless)
+[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2Fzqzrsmydr%2Frsdhskbwx988vl3)
 
 ## 注意
 
@@ -26,7 +15,7 @@ Heroku是一个支持多种编程语言的云平台即服务。目前支持Ruby�
 
 ### UUID
 
-`UUID` 默认为 `10974d1a-cbd6-4b6f-db1d-38d78b3fb109` 你也可以在部署时自由修改（建议修改）。
+`UUID` 默认为 `0a9cec65-ee8a-4921-8d1e-3092379c3d73` 你也可以在部署时自由修改（建议修改）。
 
 ## 流量中转
 
@@ -54,7 +43,7 @@ https://92km.net/archives/VLESS-Heroku-cloudflareworkers.html
 
 当然最后如果你还是懒得搭建的话，可以使用我搭建并提供的。
 ```
-vless://10874d1a-cbd6-4b6f-db1d-38d78b3fb108@ip.2024.ml:443?flow=xtls-rprx-direct&encryption=none&security=tls&type=ws&host=cdn.2024.ml#heroku永久免费
+vless://0018dd97-6589-4575-9b17-54a1a535c6f7@ip.2024.ml:443?flow=xtls-zqzrsmydr-direct&encryption=none&security=tls&type=ws&host=cdn.2024.ml#heroku永久免费
 ```
 
 或者你也可以 使用 https://2024.ml/ 
